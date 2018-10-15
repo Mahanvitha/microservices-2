@@ -1,0 +1,5 @@
+package com.capgemini.eureka_service;
+
+public class Hello {
+
+}
